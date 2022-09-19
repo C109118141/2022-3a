@@ -9,3 +9,6 @@
 
 - [ ] todo list
 - [x] done
+---python
+s = "python Syntex Highling"
+print s
